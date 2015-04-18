@@ -1,0 +1,7 @@
+《大型电商分布式系统实践（第二期）》
+第三周
+
+使用rsa算法生成公钥和私钥，用私钥加密数据，并且用公钥解密
+
+http://blog.csdn.net/sunyujia/article/details/2008480
+http://blog.csdn.net/flyingdream123/article/details/9532077

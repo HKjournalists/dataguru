@@ -1,0 +1,10 @@
+电商第四周
+1.实现签名认证的客户端签名生成和校验、服务端签名生成和校验，并附上结果
+2.keystore生成证书，openssl生成证书，结果截图
+3.通过tomcat部署双向校验https web，并将结果截图
+http://blog.csdn.net/xxd851116/article/details/18701731
+
+http://sb33060418.iteye.com/blog/1999008
+https://github.com/examplecode/certdemo/blob/master/README.md
+http://www.blogjava.net/icewee/archive/2012/05/21/378719.html
+http://www.blogjava.net/icewee/archive/2012/05/19/378554.html
