@@ -1,0 +1,9 @@
+第十二周作业
+1.将应用服务器堆内存dump，并通过mat分析，找出占用内存最多的class，并截图
+http://blog.csdn.net/fenglibing/article/details/6298326
+http://www.blogjava.net/rosen/archive/2010/06/13/323522.html
+2.使用btrace分析容器内运行最慢的方法，输出截图
+http://www.infoq.com/cn/articles/java-profiling-with-open-source
+http://itindex.net/detail/40940-btrace
+3.使用一种压缩算法压缩一个文本文件，并将文件解压还原，输出截图
+4.配置nginx开启gzip压缩，并提交配置
